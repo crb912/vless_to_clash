@@ -6,4 +6,6 @@ VLESS to Clash/sing-box Subscription Converter (Cloudflare Workers)
 
 # Cloudflare Workes KV 
 
-my_sub_db     SUB_STORE 
+my_sub_db     
+
+SUB_STORE 
